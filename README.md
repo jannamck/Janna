@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Mirabellier
-- 🌱 I’m currently learning how to develop websites
+- 👋 Hi, I’m @jannamck
+- 🌱 I’m  learning how to build websites
 
 <!---
 Mirabellier/Mirabellier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
